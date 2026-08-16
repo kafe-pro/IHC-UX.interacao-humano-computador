@@ -28,7 +28,7 @@
 </details>
 
 <details>
-<summary>Tela do entregador</summary>
+<summary>Tela da empresa</summary>
 <img width="314" height="683" alt="Image" src="https://github.com/user-attachments/assets/ff4191ef-f338-4b05-925a-537badc92407" />
 <img width="314" height="683" alt="Image" src="https://github.com/user-attachments/assets/b3e1dc6f-d6c3-49c2-a310-3f8e8fd3fe5f" />
 <img width="314" height="683" alt="Image" src="https://github.com/user-attachments/assets/605c0b6a-da00-4a7e-b45f-01a016bbf3e4" />
@@ -44,16 +44,16 @@
 </details>
 
 <details>
-<summary>Tela da empresa</summary>
-1.<img width="1258" height="2733" alt="Image" src="https://github.com/user-attachments/assets/03d412a8-9aa9-493a-acd3-d29ca735bc84" />
-2<img width="1258" height="2733" alt="Image" src="https://github.com/user-attachments/assets/4d9552e1-c78d-4722-9494-0371e69d7c37" />
-3<img width="1258" height="2733" alt="Image" src="https://github.com/user-attachments/assets/8eb92483-b427-471d-8691-345bf3dfb8ae" />
-4<img width="1258" height="2733" alt="Image" src="https://github.com/user-attachments/assets/4842f62f-ed8b-422f-b8e3-7695b30c429a" />
-5<img width="1258" height="2733" alt="Image" src="https://github.com/user-attachments/assets/859cb1a6-9feb-4edf-a63e-8957d54d44f4" />
-6<img width="1258" height="2733" alt="Image" src="https://github.com/user-attachments/assets/c5492c15-ba47-4292-b7f8-282488aad8a6" />
-7<img width="1258" height="2733" alt="Image" src="https://github.com/user-attachments/assets/b70ff4e8-d99a-49cb-8d0b-914fbd2c98d5" />
-8<img width="1258" height="2733" alt="Image" src="https://github.com/user-attachments/assets/43e7a871-41f0-4ff1-8821-6af0d372a975" />
-9<img width="1258" height="2733" alt="Image" src="https://github.com/user-attachments/assets/ced45c7d-f066-437e-8ae6-d68c402e2e5d" />
-10<img width="1258" height="2733" alt="Image" src="https://github.com/user-attachments/assets/c011fa3b-64ac-4739-a936-10499d8d5ae3" />
-11<img width="1258" height="2733" alt="Image" src="https://github.com/user-attachments/assets/52b33862-445f-4761-9dd1-0f6a95e916f2" />
+<summary>Tela do entregador</summary>
+<img width="314" height="683" alt="Image" src="https://github.com/user-attachments/assets/03d412a8-9aa9-493a-acd3-d29ca735bc84" />
+<img width="314" height="683" alt="Image" src="https://github.com/user-attachments/assets/4d9552e1-c78d-4722-9494-0371e69d7c37" />
+<img width="314" height="683" alt="Image" src="https://github.com/user-attachments/assets/8eb92483-b427-471d-8691-345bf3dfb8ae" />
+<img width="314" height="683" alt="Image" src="https://github.com/user-attachments/assets/4842f62f-ed8b-422f-b8e3-7695b30c429a" />
+<img width="314" height="683" alt="Image" src="https://github.com/user-attachments/assets/859cb1a6-9feb-4edf-a63e-8957d54d44f4" />
+<img width="314" height="683" alt="Image" src="https://github.com/user-attachments/assets/c5492c15-ba47-4292-b7f8-282488aad8a6" />
+<img width="314" height="683" alt="Image" src="https://github.com/user-attachments/assets/b70ff4e8-d99a-49cb-8d0b-914fbd2c98d5" />
+<img width="314" height="683" alt="Image" src="https://github.com/user-attachments/assets/43e7a871-41f0-4ff1-8821-6af0d372a975" />
+<img width="314" height="683" alt="Image" src="https://github.com/user-attachments/assets/ced45c7d-f066-437e-8ae6-d68c402e2e5d" />
+<img width="314" height="683" alt="Image" src="https://github.com/user-attachments/assets/c011fa3b-64ac-4739-a936-10499d8d5ae3" />
+<img width="314" height="683" alt="Image" src="https://github.com/user-attachments/assets/52b33862-445f-4761-9dd1-0f6a95e916f2" />
 </details>

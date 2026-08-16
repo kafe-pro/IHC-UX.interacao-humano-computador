@@ -7,7 +7,7 @@ https://design.penpot.app/#/view?file-id=81f57451-85cc-819d-8008-7e34b0f6c059&pa
 - Brayan Piero Correia Reis
 - Cauã Soares Ferreira
 - John Igor Gomes Rocha
-- Kauã Felipe Souza Rezende
+- [Kauã Felipe Souza Rezende](https://github.com/kafe-pro)
 - Lucas de Souza Barbosa
 - Samira Martins Tolentino D’Amato
 - San-diego Maciel Martins

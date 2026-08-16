@@ -22,7 +22,7 @@
 ## Entregador
 <details>
 <summary>Login</summary>
-<img width="629" height="1336" alt="Image" src="https://github.com/user-attachments/assets/8096c892-3100-46b5-aa6c-e3a6847875d0" />
+<img width="314" height="683" alt="Image" src="https://github.com/user-attachments/assets/8096c892-3100-46b5-aa6c-e3a6847875d0" />
 <img width="1258" height="2733" alt="Image" src="https://github.com/user-attachments/assets/d2f0c967-8704-4766-8d3d-8ea88c8b0f52" />
 <img width="1258" height="2733" alt="Image" src="https://github.com/user-attachments/assets/bb7067f1-8044-4d23-b0a7-c38186ded998" />
 <img width="1258" height="2733" alt="Image" src="https://github.com/user-attachments/assets/3ac29efa-c4d4-44b0-8503-03a73be7b01b" />

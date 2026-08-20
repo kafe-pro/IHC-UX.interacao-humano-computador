@@ -68,7 +68,7 @@
 | #3 | Inter |      16 |
 
 ## Cores
-<color>#0d5022</color>
+`#0d5022`
 `#ffffff`
 `#fefefe`
 `#939191`
@@ -79,15 +79,3 @@
 `#d4d4d5`
 `#58ca3f`
 `#ffffff`
-
-```html
-<span style="color: red;">Este texto é vermelho</span>
-```
-```markdown
-<span style="color: red;">Texto vermelho</span>
-<span style="color: #4CAF50;">Texto verde</span>
-<span style="color: blue;">Texto azul</span>
-<span style="color: #FF5722;">Texto laranja</span>
-```
-
-<span style="color: red;">Este texto é vermelho</span>

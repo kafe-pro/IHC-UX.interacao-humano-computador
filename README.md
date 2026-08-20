@@ -57,3 +57,13 @@
 <img width="314" height="683" alt="Image" src="https://github.com/user-attachments/assets/c011fa3b-64ac-4739-a936-10499d8d5ae3" />
 <img width="314" height="683" alt="Image" src="https://github.com/user-attachments/assets/52b33862-445f-4761-9dd1-0f6a95e916f2" />
 </details>
+
+## Typografia
+|    | Fonte | Tamanho |
+|----|-------|---------|
+| #1 | Inter |      22 |
+| #2 | Inter |      18 |
+| #3 | Inter |      16 |
+
+## Cores
+`#0d5022`

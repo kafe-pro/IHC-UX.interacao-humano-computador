@@ -1,3 +1,5 @@
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/e70cb174-038f-4f25-83ae-87dc0a17e7c9" />
+
 # Sobre o projeto
 ## Objetivo
   Prototipação de interface de aplicativo e integração dos conceitos de Design Centrado no Usuário e Acessibilidade.

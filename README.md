@@ -83,3 +83,11 @@
 ```html
 <span style="color: red;">Este texto é vermelho</span>
 ```
+```markdown
+<span style="color: red;">Texto vermelho</span>
+<span style="color: #4CAF50;">Texto verde</span>
+<span style="color: blue;">Texto azul</span>
+<span style="color: #FF5722;">Texto laranja</span>
+```
+
+<span style="color: red;">Este texto é vermelho</span>

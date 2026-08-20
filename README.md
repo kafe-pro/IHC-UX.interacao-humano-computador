@@ -68,7 +68,7 @@
 | #3 | Inter |      16 |
 
 ## Cores
-`#0d5022`
+<color>#0d5022</color>
 `#ffffff`
 `#fefefe`
 `#939191`

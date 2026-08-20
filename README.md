@@ -79,3 +79,7 @@
 `#d4d4d5`
 `#58ca3f`
 `#ffffff`
+
+```html
+<span style="color: red;">Este texto é vermelho</span>
+```
